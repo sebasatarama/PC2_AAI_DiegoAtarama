@@ -9,7 +9,7 @@
 - Sin Optimizar: \
 ![](PC2/iternoopt.JPG)
 - Optimizado: \
-![](PC2/optimizado.JPG)
+![](PC2/optmizado.JPG)
 - En 9 minutos, el algoritmo EA logra buenos resultados contra Hill Climbing. Sin embargo, el segundo se mantiene con mejor makespan al final de las iteraciones.
 - Hill Climbing: \
 ![](PC2/hcres.JPG)
