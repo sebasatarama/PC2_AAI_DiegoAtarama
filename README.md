@@ -15,3 +15,16 @@
 ![](PC2/hcres.JPG)
 - Evolutonary Algorithm:
 ![](PC2/ear.JPG)
+## Ejercicio 2
+### Mejoras
+- Se implementó la función recombination desde cero, con  el enfoque de utilizar listas para un mejor manejo. 
+- De forma aleatoria, se selccionan dos "padres" para combinarse y tener una nueva solución.
+- Se logra una mejora considerable del resultado final.
+### Resultados
+- EA con nswap (93 iteraciones, 814 de resultado final): \
+![](PC2/ear.JPG)
+- Hill Climbing (48 nreps, 785 de resultado final): \
+![](PC2/hcres.JPG)
+- EA con recombination (51 iteraciones, 769 de resultado final): \
+![](PC2/binres.JPG) \
+Tras 9 minutos, el uso del recombination para el EA es notablemente eficiente. Logramos, con menor cantidad de iteraciones, un mejor resultado.
