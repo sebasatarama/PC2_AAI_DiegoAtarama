@@ -5,7 +5,7 @@
 - La forma de calcular los $\mu$ mejores estaba incorrecta, se corrigió.
 - Se camibó la forma de calcular los índices de los $\lambda$ peores para calcularlos en un solo For y no dos.
 ### Resultados
-- En 3 minutos, el algoritmo sin optimizar lograba 10 iteraciones en total, en mi algoritmo optimizado, logra 30, una mejora del 200%.
+- En 3 minutos, el algoritmo sin optimizar lograba 9 iteraciones en total, en mi algoritmo optimizado, logra 30, una mejora de más del 200%.
 - Sin Optimizar: \
 ![](PC2/iternoopt.JPG)
 - Optimizado: \
